@@ -11,5 +11,3 @@ kioficina
 |--|--models
 |--|--views
 |--|--|--templates
-
-sahgdhkagfdhdsgafhdgfgdskfga
